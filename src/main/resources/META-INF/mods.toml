@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="WTFPL"
+[[mods]]
+modId="blockentityupdater"
+version="${file.jarVersion}"
+displayName="BlockEntity Updater"
+credits="All credits goes to apple502j for his fabric version => https://github.com/apple502j/UpdateBlockEntity"
+authors="oxodao"
+description='''
+This mod will update the tileentities for older worlds to 1.18 !
+'''
