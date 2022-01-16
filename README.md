@@ -7,7 +7,7 @@ Huge thanks to [LlamaLad7](https://github.com/llamalad7) from the Forge discord 
 
 No support will be given, I've made this just to port my server's world, if it can help you that's cool, if it can't thats unfortunate but feel free to modify it to make it suit your need
 
-Also, PLEASE do not go ask support to apple502j either since he has nothing to do with this port and won't be able to help you (or maybe he could but there probably is a reason if he did not port it to forge by himself, that probably means he don't want to deal with any of this)
+Also, PLEASE do not go ask support to apple502j either since they has nothing to do with this port and won't be able to help you (or maybe they could but there probably is a reason if they did not port it to forge by himself, that probably means they don't want to deal with any of this)
 
 PR / issue won't even be read
 
